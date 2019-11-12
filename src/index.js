@@ -51,7 +51,7 @@ d3.csv(map).then(mapData => {
                 row: +d.row,
                 subject: d.subject,
                 subject_short: d.subject_short,
-                value: +(Math.random() * 100).toFixed(2),
+                value: (+obj[d.subject.toLowerCase()]).toFixed(2),
                 values: obj,
             }
         })
