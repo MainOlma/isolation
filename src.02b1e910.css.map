@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.scss"],"names":[],"mappings":"AAAA,MACE,aAEF,WACE,eAEF,KACE","file":"src.02b1e910.css","sourceRoot":"..\\src","sourcesContent":[".back{\r\n  fill: aliceblue;\r\n}\r\nrect.boxes{\r\n  cursor: pointer;\r\n}\r\ntext {\r\n  pointer-events: none;\r\n}"]}
